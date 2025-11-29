@@ -1,0 +1,17 @@
+# Ignore generated datasets
+fart_dataset_for_cnn/
+rejected/
+
+# Ignore model checkpoints
+*.pt
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore logs
+*.log
+*.jsonl
+
+# Ignore gradio cache
+.gradio/
